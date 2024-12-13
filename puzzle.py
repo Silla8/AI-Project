@@ -1,3 +1,5 @@
+# Author: Silla Ibrahim
+
 import customtkinter
 import numpy as np
 import math
